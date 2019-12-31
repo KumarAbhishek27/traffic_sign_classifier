@@ -1,4 +1,4 @@
-# traffic sign classification using keras and Deep Learning
+# Traffic Sign Classification using Keras and Deep Learning
 <p align="center">
   <img src="https://www.pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_recognition_header.jpg">
 </p>
